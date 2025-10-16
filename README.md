@@ -15,10 +15,16 @@ It allows users to participate in surveys, while admins can manage survey questi
 - View submitted survey responses
 - Basic user management
 
-## Technologies Used
-- **Backend:** PHP, Laravel  
-- **Frontend:** HTML, CSS, Bootstrap, jQuery  
+## Technologies Used 
+- **Backend:** Laravel8  
+- **Frontend:** HTML, CSS, Bootstrap  
 - **Database:** MySQL
+
+## Tools
+- Xampp,Visual Studio
+
+## Web server 
+- Apache
 
 ## Project Purpose
 This project demonstrates a **survey management system** with user participation and admin management features, showcasing CRUD operations, user authentication, and dynamic data handling.
